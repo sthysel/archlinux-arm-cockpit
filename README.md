@@ -1,7 +1,7 @@
 # Installing and running cockpit on Arch linux for arm on a raspberry Pi
 
 
-![](/pics/cockpit.png)
+![Cockpit](/pics/cockpit.png)
 
 In short:
 * Get and install pcp from aur.
